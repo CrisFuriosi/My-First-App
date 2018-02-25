@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Le Ali Association</string>
+
+    <!--Title image description (image source: Le Ali association)-->
+    <string name="title_image">Le Ali</string>
+
+    <!--caption-->
+    <string name="caption1">Friends of people with disabilities</string>
+    <string name="caption2">Italian non-profit Association</string>
+
+    <!--email address (icon source: https://material.io/icons/)-->
+    <string name="email_address">info@associazioneleali.it</string>
+
+    <!--web address (icon source: https://material.io/icons/)-->
+    <string name="web_address">http://www.associazioneleali.it</string>
+
+    <!--address (icon source: https://material.io/icons/)-->
+    <string name="address">Via G. di Vittorio 3, Bussero - Italy</string>
+
+    <!--People image description (image source: Le Ali association)-->
+    <string name="people_image">Friends</string>
+
+    <!--description-->
+    <string name="description1">We believe in friendship</string>
+    <string name="description2">Our mission is to improve the life of people with disabilities.</string>
+</resources>
